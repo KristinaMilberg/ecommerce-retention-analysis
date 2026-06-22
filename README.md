@@ -29,8 +29,7 @@ ecommerce-retention-analysis/
 │   ├── 01_problem_statement_eda.ipynb
 │   ├── 02_sql_funnel_cohorts.ipynb
 │   └── 03_statistical_analysis_hypothesis_testing.ipynb
-└── dashboard/
-    └── dashboard_screenshot.png
+└── dashboard_screenshot.png
 ```
 
 ### Что в каждом ноутбуке
@@ -62,6 +61,6 @@ ecommerce-retention-analysis/
 
 ## Дашборд
 
-![Дашборд: Retention новых пользователей](dashboard/dashboard_screenshot.png)
+![Дашборд: Retention новых пользователей](dashboard_screenshot.png)
 
 Дашборд в Yandex DataLens: KPI-карточки, тренд retention по когортам, воронка, влияние цены и бренда первой покупки на возврат.
