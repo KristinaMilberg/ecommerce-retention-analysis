@@ -63,4 +63,4 @@ ecommerce-retention-analysis/
 
 ![Дашборд: Retention новых пользователей](dashboard_screenshot.png)
 
-Дашборд в Yandex DataLens: KPI-карточки, тренд retention по когортам, воронка, влияние цены и бренда первой покупки на возврат.
+Дашборд в Yandex DataLens: https://datalens.ru/qaj3nr990h6u9
